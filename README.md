@@ -18,4 +18,7 @@ table_parkingrs
 	email varchar 50
 	positionParkingrs varchar 50
 
+Also, some versions that were used:
+apache-tomcat-9.0.78
+
 Developed by Juan Carlos Arroyo Collado 2023.
